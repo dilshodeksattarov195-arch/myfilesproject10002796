@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerronnect",
+        "uuid": 1730724,
+        "checksum": "dv8wp7"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
